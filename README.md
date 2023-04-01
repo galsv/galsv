@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--Git Stats-->
+
+&#8287;&#8287;&#8287;&#8287;&#8287;
+## :bar_chart:Git stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=galsv&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=galsv&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galsv&theme=tokyonight)
