@@ -57,18 +57,12 @@
   
 <!--Projects-->
 
-## :floppy_disk:Projects
-## Notion Autotest 
-### UI 
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/galsv/notion_autotests_web)
+## :floppy_disk: Projects by Notion autotests
+### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [UI](https://github.com/galsv/notion_autotests_web)
 
-&#8287;&#8287;&#8287;&#8287;&#8287;
-### API 
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/galsv/notion_autotests_api)
+### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [API](https://github.com/galsv/notion_autotests_api)
 
-&#8287;&#8287;&#8287;&#8287;&#8287;
-### Mobile 
-##### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [GitHub Pages](https://github.com/galsv/notion-autotests-mobile)
+### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [Mobile](https://github.com/galsv/notion-autotests-mobile)
 
 
 <!--Git Stats-->
