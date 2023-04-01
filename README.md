@@ -20,7 +20,7 @@
 ## :man_student:Education
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="images/social_networks/nntu.png"></td><td valign="middle">Nizhny Novgorod State Technical University. Institute of Radio Electronics and Information Technologies.</br>Master 2017</td></tr>
+    <td width="30%" valign="bottom"><img src="images/social_networks/nntu.png"></td><td valign="middle">Nizhny Novgorod State Technical University.</br> Institute of Radio Electronics and Information Technologies.</br>Master 2017</td></tr>
   </table>
   </br>
   
